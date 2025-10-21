@@ -1,0 +1,9 @@
+{
+  "name": "Ayush's Repo(Hindi & English)",
+  "description": "Best Cloudstream Repositories for everything",
+  "iconUrl": "https://i1.sndcdn.com/artworks-BWuXyLXwYA0VEFLl-S9BFmw-t500x500.jpg",
+  "manifestVersion": 2,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ayush-024/cs-repo/refs/heads/main/myext.json"
+  ]
+}
